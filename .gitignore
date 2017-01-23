@@ -1,0 +1,11 @@
+# IDE files
+/.idea/
+
+# Temporary files
+/target/
+/out/
+*.swp
+
+# Working files
+/application.properties
+
