@@ -1,6 +1,6 @@
 # Purpose
 
-A simple Flask starter template.
+A simple Flask application for AWS Beanstalk testing.
 
 # Dependency installation
 
